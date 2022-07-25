@@ -20,5 +20,5 @@ To use this application, first, pull up the repo's folder in your terminal/bash 
 
 Once your team has been added in full to the application, you can select the “no” option for adding new team members. This will complete the application and export the HTML file to the /dist output folder . You can now view this HTML file or host it on your website to display your team profiles.
 
-#Testing
+# Testing
 This program was built using class syntax and constructor functions. The function for each employee type was tested before building out the rest of the program. These tests are run with the Jest node package dependency (which is installed with the npm install command). To run the tests, enter the run npm test command.
