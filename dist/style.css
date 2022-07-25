@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 1.5px;
+  }
+
+  body {
+    background-attachment: fixed;  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("../src/website-background.jpg");
+  }
+
+  .navbar {
+    background-image: url("../src/website-banner-background.jpg");
+    box-shadow: -1px 2px 10px -1px rgb(134, 132, 132);
+    color: #4e534f;
+    padding: 30px; 
+      
+  }
+  
+ .h1 {
+    font-size: 50px; 
+    letter-spacing: 2px;
+  }
+
+  .card-header {
+    font-size: 30px;
+    color: #ffffff;
+    line-height: 18px;
+    padding: 25px;
+    background-image: url("../src/card-header-background.jpg");
+  }
+  
+  .list-group-item {
+    background-image: url("../src/card-background.jpg");
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
